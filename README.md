@@ -5,3 +5,7 @@ a=23
 b=23
 c=a/b
 print(c)
+print(a)
+print(b)
+d=a*b
+print(d)
